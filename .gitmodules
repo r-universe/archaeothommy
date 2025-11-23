@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "chronochrt"]
 	path = chronochrt
-	url = https://gitlab.com/archaeothommy/chronochrt
+	url = https://github.com/archaeothommy/chronochrt
